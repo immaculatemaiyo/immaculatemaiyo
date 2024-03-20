@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @immaculatemaiyo
+- 👋 Hi, I’m @jelimomaiyo
 - 👀 I’m interested in Hardware Development, IoT
 - 🌱 I’m currently learning python, C++, Perl
 - 💞️ I’m looking to collaborate on opensource projects
